@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 /*navbar*/
 .navbar{
-    
+
 }
 
 .logo{
@@ -53,17 +53,35 @@ footer, header, hgroup, menu, nav, section {
 
 /*content*/
 
+/*top-content*/
+.top-content{
+
+}
+
+.top content button{
+    
+}
 .about{
 
 }
 
-.about-img{
+.services{
 
 }
 
-.about-text-container{
+/*hours of operation*/
+.hrs-operation{
 
 }
+
+.days{
+
+}
+
+.hours{
+    
+}
+
 
 
 /*footer*/
